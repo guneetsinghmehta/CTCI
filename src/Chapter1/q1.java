@@ -23,6 +23,9 @@ public class q1 {
 		{
 			if(c[i]==c[i+1]){ans=false;break;}
 		}
+		String t=new String("abcd");
+		char c2='a';
+		System.out.println(Character.toLowerCase(c2));
 		return ans;
 	}
 	

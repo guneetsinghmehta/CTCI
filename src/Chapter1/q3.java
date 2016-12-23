@@ -1,6 +1,7 @@
 package Chapter1;
 
 public class q3 {
+	private static int a=1;
 	public static void main(String args[])
 	{
 		String temp=new String(" Mr John Smith");
